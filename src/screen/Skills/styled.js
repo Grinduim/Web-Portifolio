@@ -56,7 +56,7 @@ height: 80vh;
         border-width: 2px;
         padding:  2vh;
         border-image: linear-gradient(to right, darkred, darkorchid) 1;
-        height: 28%;
+        height: auto;
     }
 
     .invisible{
