@@ -42,6 +42,10 @@ export const ContactStyle = styled.div`
         gap:10px;
     }
 
+    .form * {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
     .form h2{
         background-color: #f5f5f5;
         color: #000;
@@ -71,6 +75,7 @@ export const ContactStyle = styled.div`
     }
 
     .input-field input,textarea{
+        font-size: 16px;
         color:black;
         background-color: #f5f5f5;
         padding:5px;
